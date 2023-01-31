@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Fruits-Shop/static/css/main.3df9c4f3.css",
+    "main.js": "/Fruits-Shop/static/js/main.89b6e580.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Fruits-Shop/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background-about.jpg": "/Fruits-Shop/static/media/background-about.1f161781be128a4edf7c.jpg",
+    "static/media/buy-fruits.jpg": "/Fruits-Shop/static/media/buy-fruits.c8815306f63a735c9c6a.jpg",
+    "static/media/background.png": "/Fruits-Shop/static/media/background.1be7fbfbd6f556ca3a3e.png",
+    "static/media/avatar1.png": "/Fruits-Shop/static/media/avatar1.52842dd582b01c1fe9e2.png",
+    "static/media/avatar3.png": "/Fruits-Shop/static/media/avatar3.526f7b10c319633d0131.png",
+    "static/media/avatar2.png": "/Fruits-Shop/static/media/avatar2.44bec48fbc1bdd382987.png",
+    "static/media/team-1.jpg": "/Fruits-Shop/static/media/team-1.c48a139376a8d9c5205e.jpg",
+    "static/media/team-3.jpg": "/Fruits-Shop/static/media/team-3.e33fde4e2e447166017a.jpg",
+    "static/media/team-2.jpg": "/Fruits-Shop/static/media/team-2.ac09525692b83a11cce3.jpg",
+    "static/media/strawberry.jpg": "/Fruits-Shop/static/media/strawberry.cfd2db95cb6b3cc1fcb0.jpg",
+    "static/media/strawberry2.jpg": "/Fruits-Shop/static/media/strawberry2.ca33d6aab584012d747c.jpg",
+    "static/media/avocado.jpg": "/Fruits-Shop/static/media/avocado.bf327a71752bb7e77076.jpg",
+    "static/media/grape.jpg": "/Fruits-Shop/static/media/grape.c51a2c390b6fc032aa74.jpg",
+    "static/media/lemon.jpg": "/Fruits-Shop/static/media/lemon.0678df0c2e34374ea079.jpg",
+    "static/media/emtycard.png": "/Fruits-Shop/static/media/emtycard.9bdd8040b334d31946f4.png",
+    "static/media/greenapple.jpg": "/Fruits-Shop/static/media/greenapple.bf7db5f375e6bd7ed354.jpg",
+    "static/media/sale.jpg": "/Fruits-Shop/static/media/sale.85b7711e5afa8d1a9568.jpg",
+    "static/media/logo.png": "/Fruits-Shop/static/media/logo.9adc4659e829b833f7e3.png",
+    "static/media/quick-refund.png": "/Fruits-Shop/static/media/quick-refund.06cc3981258420bce0c6.png",
+    "static/media/slick.svg": "/Fruits-Shop/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Fruits-Shop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Fruits-Shop/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Fruits-Shop/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Fruits-Shop/index.html",
+    "main.3df9c4f3.css.map": "/Fruits-Shop/static/css/main.3df9c4f3.css.map",
+    "main.89b6e580.js.map": "/Fruits-Shop/static/js/main.89b6e580.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Fruits-Shop/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df9c4f3.css",
+    "static/js/main.89b6e580.js"
+  ]
+}
