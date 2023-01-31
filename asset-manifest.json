@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fruits-Shop/static/css/main.3df9c4f3.css",
-    "main.js": "/Fruits-Shop/static/js/main.89b6e580.js",
+    "main.js": "/Fruits-Shop/static/js/main.012dd51e.js",
     "static/js/787.28cb0dcd.chunk.js": "/Fruits-Shop/static/js/787.28cb0dcd.chunk.js",
     "static/media/background-about.jpg": "/Fruits-Shop/static/media/background-about.1f161781be128a4edf7c.jpg",
     "static/media/buy-fruits.jpg": "/Fruits-Shop/static/media/buy-fruits.c8815306f63a735c9c6a.jpg",
@@ -28,11 +28,11 @@
     "static/media/slick.woff": "/Fruits-Shop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Fruits-Shop/index.html",
     "main.3df9c4f3.css.map": "/Fruits-Shop/static/css/main.3df9c4f3.css.map",
-    "main.89b6e580.js.map": "/Fruits-Shop/static/js/main.89b6e580.js.map",
+    "main.012dd51e.js.map": "/Fruits-Shop/static/js/main.012dd51e.js.map",
     "787.28cb0dcd.chunk.js.map": "/Fruits-Shop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3df9c4f3.css",
-    "static/js/main.89b6e580.js"
+    "static/js/main.012dd51e.js"
   ]
 }
